@@ -3,7 +3,7 @@
 ### Carpetas: 
 Se nombran en **minúsculas** con nomenclatura `camelCase`
 ### Archivos:
-minusculas, camelcase, .nombreClase/función
+Se nombra en  **minúsculas** con nomenclatura `camelCase`,  .nombreClase/función
 Ejemplo:
 ```vc
 utils
